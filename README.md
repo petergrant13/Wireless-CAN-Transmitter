@@ -1,4 +1,4 @@
-# Wireless CAN Transceiver
+# Wireless CAN Transmitter
 
 > A concept FPGA-based system for transmitting CAN bus traffic wirelessly
 
