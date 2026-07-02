@@ -1,0 +1,2 @@
+This is the vitis Xilinx CAN driver (I think equivalent of HAL)
+https://xilinx.github.io/embeddedsw.github.io/canps/doc/html/api/index.html
