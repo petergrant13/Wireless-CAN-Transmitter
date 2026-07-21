@@ -1,2 +1,18 @@
 This is the vitis Xilinx CAN driver (I think equivalent of HAL)
 https://xilinx.github.io/embeddedsw.github.io/canps/doc/html/api/index.html
+
+This is an example of loopback CAN on the zynq7000 PS
+https://xilinx.github.io/embeddedsw.github.io/canps/doc/html/api/xcanps__polled__example_8c.html
+
+Zynq7000 BPSK implementation
+https://ieeexplore.ieee.org/document/8662841
+
+This covers design and implementation of SDR
+https://www.digikey.ca/en/articles/building-a-software-defined-radio
+
+IQ modulator application note from AD 
+https://www.analog.com/en/resources/app-notes/an-2547.html
+
+These are useful for SDR
+https://wiki.gnuradio.org/index.php/Tutorials
+https://pysdr.org/
